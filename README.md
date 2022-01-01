@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @ayushkurlekar
+- 💻 Currently Working as software engineer at <a href='https://sellinall.com/'>SELLinALL</a>
 - 👀 I’m interested in Innovative Apps
-- 🌱 I’m currently learning exciting technologies
+- 🌱 I’m always learning exciting technologies
 - 💞️ I’m looking to collaborate on anything which gives goosebumps
+- ✔️ Interested in #Python #Automation #DataScience
 - 📫 How to reach me at ayushkurlekar@gmail.com
 
 <!---
