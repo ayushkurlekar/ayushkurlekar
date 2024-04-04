@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ayushkurlekar
-- 💻 Currently Working as Machine Learning Engineer at <a href='https://saaragh.com/'>Saaragh Solutions Pvt Ltd</a>
 - 👀 I’m interested in Innovative Apps
 - 🌱 I’m always learning exciting technologies
 - 💞️ I’m looking to collaborate on anything which gives goosebumps
